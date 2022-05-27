@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295461887280",
+    "project_id": "fir-intento5000",
+    "storage_bucket": "fir-intento5000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295461887280:android:48b3e031048f22ba403cf5",
+        "android_client_info": {
+          "package_name": "com.example.firenojala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295461887280-oaf51f99v41sidkng63ml41to8miks7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkGpbsLukpQdRejUVY9b40k-21LoQi3g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295461887280-oaf51f99v41sidkng63ml41to8miks7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
